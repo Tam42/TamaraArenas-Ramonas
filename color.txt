@@ -1,2 +1,4 @@
-Hola, soy master
-Master modificado.
+Hola, soy master.
+Hola, soy verde.
+Hola, soy amarillo.
+Hola, soy rojo.
